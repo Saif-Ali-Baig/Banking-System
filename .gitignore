@@ -59,3 +59,7 @@ Thumbs.db
 *.bak
 *.tmp
 *.swp
+
+# Database files
+*.db
+sqlite-jdbc-*.jar
